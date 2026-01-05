@@ -41,7 +41,6 @@ What days generate the highest order value?
 **📈 Analysis & Visualizations**
 
 The following analyses were performed using Pivot Tables & Pivot Charts:
-
 Product-wise total sales value
 City-wise and area-wise revenue contribution
 Order delivery status analysis
